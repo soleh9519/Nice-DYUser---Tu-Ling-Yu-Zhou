@@ -88,3 +88,8 @@ done
 rm silence.mp3
 
 echo "All 3 groups processed successfully!"
+
+
+# https://github.com/soleh9519/Nice-DYUser---Tu-Ling-Yu-Zhou/raw/refs/heads/TurboScribe-1/抖音A_7508576300370595099_7512397212559740169_7521693621129645321.mp3
+# https://github.com/soleh9519/Nice-DYUser---Tu-Ling-Yu-Zhou/raw/refs/heads/TurboScribe-1/抖音A_7680030547673910582_7679391932635827475_7679389777891691776.mp3
+# https://github.com/soleh9519/Nice-DYUser---Tu-Ling-Yu-Zhou/raw/refs/heads/TurboScribe-1/抖音A_7680165065328315690_7680164185061215530_7680031427819244826.mp3
